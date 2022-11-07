@@ -13,3 +13,8 @@ Projects:
   - Information Retrieval
   - Text Similarity
   - Word Embedding
+
+Tools used:
+- Programming Language: Python
+- Libraries: Numpy, Pandas, Sklearn, Matplotlib, NLTK
+- DL Framework - TensorFlow, PyTorch
