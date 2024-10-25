@@ -1,20 +1,20 @@
-# Natural-Language-Processing
+# Natural Language Processing Projects
 
-In this repository, please go through my projects related to natural Language Processing.
+Welcome! This repository showcases a collection of my Natural Language Processing (NLP) projects, organized by learning approach.
 
-Projects:
+## Projects Overview
 - Supervised Learning:
-  - Text Classification with Neural Networks
-  - Language Models and Morphological Transduction
-  - Text_Classification using Scikit-Learn
+  - [Text Classification with Neural Networks](Natural-Language-Processing/TextClassificationwithNeuralNetworks.ipynb)
+  - [Language Models and Morphological Transduction](Natural-Language-Processing/LanguageModelsAndMorphologicalTransduction.ipynb) 
+  - [Text_Classification using Scikit-Learn](Natural-Language-Processing/Text_Classification_using_Scikit-Learn)
 
 - Unsupervised Learning:
-  - Topic Modeling
-  - Information Retrieval
-  - Text Similarity
-  - Word Embedding
+  - [Topic Modeling](Natural-Language-Processing/Topic_Modelling.ipynb)
+  - [Information Retrieval](Natural-Language-Processing/Information_Retreival.ipynb)
+  - [Text Similarity Analysis](Natural-Language-Processing/Similarity_in_Text.ipynb)
+  - [Word Embeddings](Natural-Language-Processing/Word_Embeddings.ipynb)
 
-Tools used:
-- Programming Language: Python
-- Libraries: Numpy, Pandas, Sklearn, Matplotlib, NLTK
-- DL Framework - TensorFlow, PyTorch
+Tools & Technologies:
+- **Programming Language**: Python
+- **Libraries**: NumPy, Pandas, Scikit-Learn, Matplotlib, NLTK
+- **Deep Learning Frameworks** - TensorFlow, PyTorch
