@@ -4,15 +4,15 @@ Welcome! This repository showcases a collection of my Natural Language Processin
 
 ## Projects Overview
 - Supervised Learning:
-  - [Text Classification with Neural Networks](Natural-Language-Processing/TextClassificationwithNeuralNetworks.ipynb)
-  - [Language Models and Morphological Transduction](Natural-Language-Processing/LanguageModelsAndMorphologicalTransduction.ipynb) 
-  - [Text_Classification using Scikit-Learn](Natural-Language-Processing/Text_Classification_using_Scikit-Learn)
+  - [Text Classification with Neural Networks](TextClassificationwithNeuralNetworks.ipynb)
+  - [Language Models and Morphological Transduction](LanguageModelsAndMorphologicalTransduction.ipynb) 
+  - [Text_Classification using Scikit-Learn](Text_Classification_using_Scikit-Learn)
 
 - Unsupervised Learning:
-  - [Topic Modeling](Natural-Language-Processing/Topic_Modelling.ipynb)
-  - [Information Retrieval](Natural-Language-Processing/Information_Retreival.ipynb)
-  - [Text Similarity Analysis](Natural-Language-Processing/Similarity_in_Text.ipynb)
-  - [Word Embeddings](Natural-Language-Processing/Word_Embeddings.ipynb)
+  - [Topic Modeling](Topic_Modelling.ipynb)
+  - [Information Retrieval](Information_Retreival.ipynb)
+  - [Text Similarity Analysis](Similarity_in_Text.ipynb)
+  - [Word Embeddings](Word_Embeddings.ipynb)
 
 Tools & Technologies:
 - **Programming Language**: Python
